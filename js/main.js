@@ -1,7 +1,7 @@
 let dataImg
 
-const load = async () => {
-    const request = await fetch('test-8-colors.dat')
+const load = async (fileSrc) => {
+    const request = await fetch(fileSrc)
     const response = await request.text()
     dataImg = response.replace(/\n/,'')
     init()
@@ -78,4 +78,4 @@ const init = () => {
 
 }
 
-load()
+load('test-8-colors.dat')

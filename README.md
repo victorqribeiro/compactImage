@@ -27,3 +27,5 @@ The idea behind this is to have a JSON like format, where the pixels are grouppe
 ## Try it yourself
 
 Change the variable *fileName* in the *compact.js* file and visit the compact.html to download your new compacted image *.dat*.
+
+Then use change the call to the *load()* function at the end of the *main.js* file, to load *your_image.dat*.
