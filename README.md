@@ -2,6 +2,8 @@
 
 I've created this project for fun. It tries to beat the current PNG format by using indexed colors and storing the most used color as a background color (this way I don't need to store the pixels in that color).
 
+[Live Version](https://victorribeiro.com/compactImage/) - (Safari browser have disabled canvas)
+
 ## Comparision
 
 ![comparison](imgREADME/comparison.png)
