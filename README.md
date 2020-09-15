@@ -6,7 +6,7 @@ I've created this project for fun. It tries to beat the current PNG format by us
 
 ![comparison](imgREADME/comparison.png)
 
-As you can see, this image files beats a JPG both in quality as in size (for this type of test, large same color area and indexed colors), but looses to a compacted PNG (generated in GIMP).
+As you can see, this image files beats a JPG both in quality as in size (for this type of test, large same color area and indexed colors), but looses to a compacted PNG (generated in GIMP). It beats an uncompressed PNG file though.
 
 ## Headers
 
